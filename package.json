@@ -1,0 +1,25 @@
+{
+  "name": "saletastic-notifications",
+  "version": "1.0.0",
+  "description": "1 step:\r $ npm install express",
+  "main": "fulfillmentCreate.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "raw-body": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhalgasbaibolov/saletastic-notifications.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhalgasbaibolov/saletastic-notifications/issues"
+  },
+  "homepage": "https://github.com/zhalgasbaibolov/saletastic-notifications#readme"
+}
